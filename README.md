@@ -11,6 +11,7 @@ Leetcode Problem Solution
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Aaditiyarajchauhan/Leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Aaditiyarajchauhan/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aaditiyarajchauhan/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
