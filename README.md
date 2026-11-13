@@ -7,6 +7,7 @@ Leetcode Problem Solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aaditiyarajchauhan/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Aaditiyarajchauhan/Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Aaditiyarajchauhan/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aaditiyarajchauhan/Leetcode/tree/master/0268-missing-number) |
 ## Math
@@ -19,6 +20,7 @@ Leetcode Problem Solution
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Aaditiyarajchauhan/Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Aaditiyarajchauhan/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
